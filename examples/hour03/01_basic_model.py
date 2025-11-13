@@ -1,3 +1,4 @@
+# 기본 `BaseModel` 생성 및 POST 실습
 from fastapi import FastAPI
 from pydantic import BaseModel
 
